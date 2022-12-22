@@ -5,6 +5,11 @@ public class HomePage {
 
     //nav menu
 
+//logo
 
+
+    // add more things
+
+    //footer
 
 }
